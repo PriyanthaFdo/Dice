@@ -10,3 +10,7 @@ This is a mobile application developed by myself to sharpen my android developme
 + [ ] - Random number generator (options include No. of digits, min, max, exclusions)
 + [ ] -
 + [ ] -
+
+
+
+#### I look forward to publish the finished app to play store if possible
