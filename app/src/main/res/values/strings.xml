@@ -1,4 +1,15 @@
 <resources>
     <string name="app_name">Dice</string>
     <string name="application_logo">Application LOGO</string>
+    <string name="standard_rolls">Standard Rolls</string>
+    <string name="biased_rolls">Biased Rolls</string>
+    <string name="random_number_generator">Random Number Generator</string>
+    <string name="d4">d4</string>
+    <string name="d10">d10</string>
+    <string name="d12">d12</string>
+    <string name="d20">d20</string>
+    <string name="d100">d100</string>
+    <string name="d8">d8</string>
+    <string name="standard_dice_d6">Standard Dice (d6)</string>
+    <string name="coin_toss_d2">Coin Toss (d2)</string>
 </resources>
