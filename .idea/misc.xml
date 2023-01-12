@@ -3,9 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Personal Projects/Dice/app/src/main/res/drawable/background_0.xml" value="0.2305" />
+        <entry key="..\:/Personal Projects/Dice/app/src/main/res/drawable/background_315.xml" value="0.2305" />
+        <entry key="..\:/Personal Projects/Dice/app/src/main/res/drawable/background_45.xml" value="0.2305" />
+        <entry key="..\:/Personal Projects/Dice/app/src/main/res/drawable/background_90.xml" value="0.2305" />
         <entry key="..\:/Personal Projects/Dice/app/src/main/res/drawable/splash_background.xml" value="0.206" />
         <entry key="..\:/Personal Projects/Dice/app/src/main/res/layout/activity_home.xml" value="0.25" />
         <entry key="..\:/Personal Projects/Dice/app/src/main/res/layout/activity_main.xml" value="0.2359375" />
+        <entry key="..\:/Personal Projects/Dice/app/src/main/res/layout/activity_standard_rolls.xml" value="0.25" />
       </map>
     </option>
   </component>
