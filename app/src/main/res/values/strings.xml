@@ -12,4 +12,8 @@
     <string name="d8">d8</string>
     <string name="standard_dice_d6">Standard Dice (d6)</string>
     <string name="coin_toss_d2">Coin Toss (d2)</string>
+    <string name="roll">Roll</string>
+    <string name="head">Head</string>
+    <string name="tails">Tails</string>
+
 </resources>
