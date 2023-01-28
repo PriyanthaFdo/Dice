@@ -17,7 +17,7 @@ This is a mobile application developed by myself to sharpen my android developme
 + [ ] - make backgrounds of the app randomnly be selected from the available background files
 + [ ] - use splashscreen API to make the splash screen
 + [ ] - animate splash screen logo
-= [ ] - exclusions, min, max in random number generator activity
++ [ ] - exclusions, min, max in random number generator activity
 
 
 
